@@ -1,4 +1,11 @@
 # VuePinterest
+
+<h2 align="center">
+  <img src="https://github.com/armanabkar/VuePinterest/blob/main/screenshots/HomePage.png" alt="VuePinterest" width="600px" />
+  <br>
+</h2>
+
+
 A simple clone of "Pinterest" website using Vue, GraphQL, MongoDB and Vuetify.
 
 ## Installation & Usage
